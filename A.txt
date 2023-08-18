@@ -1,4 +1,3 @@
-Gabriel Gamer
-
-outra coisa
-adaghxc
+git remote -v
+git push
+git push origin main
